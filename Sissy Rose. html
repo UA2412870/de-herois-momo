@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momo Delights</title>
+    <link rel="stylesheet" href="Sissy Rose styles.css"/>
+</head>
+<body>
+    <header>
+        <h1>DE HEROIS COMPANY LTD</h1>
+        <p>Your trusted partner for fast and secure Mobile Money Transfers</p>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="ABOUT">
+            <h2>ABOUT US</h2>
+            <p>Welcome to DE HEROIS COMPANY LTD! We are a dedicated and reliable moblie money vendor specializing in cross-border money Transfers.
+            <P> Our mission is to provide seamless, secure and instant financial services to help you send money to your loved ones in Ghana and Nigeria with confidence.</p>
+            <ul>
+                <!-- Add more menu items here -->
+            </ul>
+        </section>
+        <section id="SERVICES">
+            <H2>Our services</H2>
+            <p>We offer a range of mobile money services tailored to your needs. Our primary serice is:</p>
+            <h3>Momo Transfers</h3>
+            <ul>
+                <li>Send money from Ghana to Nigeria</li>
+                <li>Send money from Nigeria to Ghana</li>
+                <li><strong>Transaction Fee:</strong>We offer competitive rates on all Transfers.</li>
+                <li><strong>Processing time:</strong>instant confirmation</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Get in Touch</h2>
+            <p>Ready to make a transfer? Have questions? Contact us now to get started!</p>
+            <p>Phone:<a href="tel:0598275054">0598275054</a></p>
+            <p>Email:<a href="appiahrose752@gmail.com"> appiahrose752@gmail.com</a></p>
+
+            <h3> DE HEROIS... We Give the best</h3>
+            </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 DE HEROIS COMPANY LTD. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
